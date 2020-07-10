@@ -5,6 +5,11 @@ This is a set of scripts that will remote start a generator wired up to a raspbe
 This script is intended to allow remote starting of a Terex model AL-4 light tower/generator combo. More information on this model can be found here:
 https://www.genielift.com/en/material-handling/light-towers/al4
 
+While this model is end of life, they can be sourced easily and were generally very well-maintained during their initial service life:
+https://www.ebay.com/sch/i.html?_nkw=terex+light+tower
+
+This remote start script can also be used for any 4-wire start switch with minimal modifications.
+
 ## Hardware
 These scripts control i2c relay boards which can be sourced on Amazon:
 https://www.amazon.com/gp/product/B07Y54FKC6/
